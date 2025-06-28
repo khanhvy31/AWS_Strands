@@ -1,0 +1,7 @@
+strands-agents
+strands-agents[openai]
+strands-agents-tools
+mcp>=1.9.4
+uv>=0.7.13
+openai>=1.1.0
+python-dotenv
